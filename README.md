@@ -13,6 +13,8 @@ Estou trilhando o começo da minha jornada....
 
 ![Cartão de Reposição](https://github-readme-streak-stats.herokuapp.com/?user=xDiziNhAx)
 
+![Snake animation](https://github.com/xDiziNhAx/xDiziNhAx/blob/output/github-contribution-grid-snake.svg)
+
 ##
 
 
