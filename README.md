@@ -30,7 +30,11 @@ Estou estudando para apreder as linguagens a baixo 📘 📝:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/ingrid-lemos-rodrigues-2b1639143/)
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://discord.gg/9KAENcrwzr)
-[📧 Meu Gmail](mailto:didinha14@gmail.com)
+<a href="mailto:didinha14@gmail.com" target="_blank">
+  <img src="https://shields.io" alt="Gmail" />
+</a>
+
+
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xDiziNhAx/xDiziNhAx)
 
 
