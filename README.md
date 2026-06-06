@@ -1,14 +1,30 @@
-### Olá eu sou Ingrid Rodrigues 👋 😎
+<h1 align="center">Ingrid Rodrigues</h1>
 
-Estou trilhando o começo da minha jornada....
+<h3 align="center">🚀 Full Stack Developer</h3>
 
-![HD-wallpaper-artificial-intelligence-cyber-intelligence](https://github.com/xDiziNhAx/xDiziNhAx/assets/130668465/02fb59f6-c99e-471c-b36c-1d352192c911) 
-##
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,git,github" />
+</p>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=Ingrid%20Rodrigues&fontSize=50&fontColor=fff"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800">
+</p>
+<h3 align="center">🚀 Full Stack Developer</h3>
+
+----------------------------------------------------------------------------------------------------------------
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=200&section=header&text=xDiziNhAx&fontSize=50&fontColor=fff"/>
+
+
 
 
 <img src="https://komarev.com/ghpvc/?username=xDiziNhAx&label=Visualizações&color=blue&style=for-the-badge"/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 
 ![Cartão de Reposição](https://github-readme-streak-stats.herokuapp.com/?user=xDiziNhAx)
